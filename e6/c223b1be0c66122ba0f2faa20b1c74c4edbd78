@@ -1,0 +1,46 @@
+gradlew
+  s_491a06da76bc54::t_ebf0bc41d0c2f4 1-251
+gradle/wrapper/gradle-wrapper.properties
+  s_491a06da76bc54::t_d26cb7d6477af5 1-8
+app/src/test/kotlin/app/LeakingTest.kt
+  s_491a06da76bc54::t_e8d1f884fbeb94 1-10,14-42
+  s_b867dcc00dcd5d::t_56f1384ae02e5b 11-13
+test-infra/src/main/kotlin/leak/BaseIntegrationTest.kt
+  s_491a06da76bc54::t_66fe7224428a31 1-28,33-42,48,50,53-77,80-88
+  s_b867dcc00dcd5d::t_cb1a12567892bc 43-47,49,51-52
+  s_b867dcc00dcd5d::t_984605e99087e6 78-79
+  s_b867dcc00dcd5d::t_86908ac22b36b7 29-32
+README.md
+  s_b867dcc00dcd5d::t_f19d5bb64697b1 1-99
+app/build.gradle.kts
+  s_b867dcc00dcd5d::t_ec600455c77de4 14
+  s_b867dcc00dcd5d::t_baec6f2df3a496 11-13
+  s_b867dcc00dcd5d::t_0ab88b9b2e321d 15-17
+app/src/test/kotlin/app/ZFollowingTest.kt
+  s_491a06da76bc54::t_a0fc7a7e95f0c6 1-10,13-23
+  s_b867dcc00dcd5d::t_e8955afd25fbe5 11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e6c223b1be0c66122ba0f2faa20b1c74c4edbd78",
+  "prompts": {},
+  "sessions": {
+    "s_491a06da76bc54": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e17019da3ffewC4ahlMK6v5gBA",
+        "model": "heavy"
+      },
+      "human_author": "man85 <man85@yandex.ru>"
+    },
+    "s_b867dcc00dcd5d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e0681b24bffewHRzF3VNvThtef",
+        "model": "heavy"
+      },
+      "human_author": null
+    }
+  }
+}
