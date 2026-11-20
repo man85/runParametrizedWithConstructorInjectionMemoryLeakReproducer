@@ -1,0 +1,27 @@
+app/src/test/kotlin/app/LeakingTest.kt
+  s_491a06da76bc54::t_e8d1f884fbeb94 1-42
+app/src/test/kotlin/app/ZFollowingTest.kt
+  s_491a06da76bc54::t_a0fc7a7e95f0c6 1-23
+gradle/wrapper/gradle-wrapper.properties
+  s_491a06da76bc54::t_d26cb7d6477af5 1-8
+gradlew
+  s_491a06da76bc54::t_ebf0bc41d0c2f4 1-251
+test-infra/src/main/kotlin/leak/BaseIntegrationTest.kt
+  s_491a06da76bc54::t_66fe7224428a31 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0744fd8f6fa33834133a3e4637412a72bbbcc5d1",
+  "prompts": {},
+  "sessions": {
+    "s_491a06da76bc54": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e17019da3ffewC4ahlMK6v5gBA",
+        "model": "heavy"
+      },
+      "human_author": "man85 <man85@yandex.ru>"
+    }
+  }
+}
