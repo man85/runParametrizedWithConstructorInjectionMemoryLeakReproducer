@@ -1,0 +1,18 @@
+app/src/test/kotlin/app/LeakingTest.kt
+  h_86c50d49f285ae 4,6,17,23,29,35,41
+app/src/test/kotlin/app/ZFollowingTest.kt
+  h_86c50d49f285ae 4,6,16,22
+test-infra/src/main/kotlin/leak/BaseIntegrationTest.kt
+  h_86c50d49f285ae 21,24,35,45-46,48-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0ae013302aa309c85550971a841f28511291ab6f",
+  "prompts": {},
+  "humans": {
+    "h_86c50d49f285ae": {
+      "author": "man85 <man85@yandex.ru>"
+    }
+  }
+}
