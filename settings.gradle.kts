@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 
-include("test-infra", "app")
+include("app")
