@@ -1,0 +1,31 @@
+app/src/test/kotlin/app/ZFollowingTest.kt
+  s_491a06da76bc54::t_a0fc7a7e95f0c6 8,11-12
+  h_86c50d49f285ae 4
+app/src/test/kotlin/app/LeakingTest.kt
+  h_86c50d49f285ae 4
+  s_491a06da76bc54::t_e8d1f884fbeb94 8,12
+test-infra/src/main/kotlin/leak/BaseIntegrationTest.kt
+  h_86c50d49f285ae 22,32-33,35-36
+  h_86c50d49f285ae 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "56825cc276258e8630909dd5a8652851e1970609",
+  "prompts": {},
+  "humans": {
+    "h_86c50d49f285ae": {
+      "author": "man85 <man85@yandex.ru>"
+    }
+  },
+  "sessions": {
+    "s_491a06da76bc54": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e17019da3ffewC4ahlMK6v5gBA",
+        "model": "heavy"
+      },
+      "human_author": "man85 <man85@yandex.ru>"
+    }
+  }
+}
